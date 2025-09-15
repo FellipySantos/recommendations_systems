@@ -1,0 +1,8 @@
+product_id,nome_produto,categoria,risco,taxa_juros,taxa_adm,beneficio
+101,Cartão Cashback,Cartão,Baixo,0.0,0.0,cashback 1%
+102,Empréstimo Consignado,Crédito,Médio,2.2,0.0,juros reduzidos
+103,CDB Liquidez Diária,Investimento,Baixo,0.0,0.2,liquidez diária
+104,Seguro Viagem,Seguro,Baixo,0.0,0.0,assistência viagem
+105,Fundo de Ações,Investimento,Alto,0.0,1.5,potencial de alto retorno
+106,Previdência Privada,Previdência,Médio,0.0,1.0,planejamento aposentadoria
+107,Cartão Milhas,Cartão,Baixo,0.0,0.0,milhas aéreas
