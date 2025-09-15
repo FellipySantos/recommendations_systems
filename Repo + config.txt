@@ -1,0 +1,5 @@
+pip install streamlit pandas scikit-learn scipy
+
+python -m streamlit run Recomendation.py
+
+Repositorio: https://github.com/FellipySantos/recommendations_systems
